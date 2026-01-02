@@ -21,6 +21,8 @@ def set_axis_style(ax, labels):
 np.random.seed(19680801)
 data = [sorted(np.random.normal(0, std, 100)) for std in range(1, 5)]
 
+# plt.plot(data[3], marker='o')
+
 fig, (ax1, ax2) = plt.subplots(nrows=1, ncols=2, figsize=(9, 4), sharey=True)
 
 ax1.set_title("Default violin plot")
