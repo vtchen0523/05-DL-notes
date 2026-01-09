@@ -15,8 +15,7 @@ As a Chinese academic paper writing improvement assistant, your task is to enhan
 Could you create 10 visuals to represent different data according to your understanding of the above dataset?
 
 -------------------------------------------------------------------
-Could you please help me to ensure that the punctuation marks are correct in the following text? Do not try to improve the text, if no
-mistake is found, tell me that this paragraph is good. lf you find mistakes in punctuation marks, please list the mistakes you find in a two-column markdown table, put the original text in the first column, and put the corrected text in the second column, please only list the mistakes and provide the corrected text in the end.
+Could you please help me to ensure that the punctuation marks are correct in the following text? Do not try to improve the text, if no mistake is found, tell me that this paragraph is good. lf you find mistakes in punctuation marks, please list the mistakes you find in a two-column markdown table, put the original text in the first column, and put the corrected text in the second column, please only list the mistakes and provide the corrected text in the end.
 -------------------------------------------------------------------
 # 论文标题生成
 I will provide you with the abstract and key words of a scientific paper in any language and you will detect the language and reply in the same language. Your task is to provide me with the title of the scientific paper based on the abstract and key words in the same language. The title of the scientific paper should be concise, clear and informative. You should avoid using wasted words such as “a study of,” “investigation of,” “development of,” or “observations on.” Make sure the title can grip the audience immediately. My abstract is "XXX", my key words are "XXX"
